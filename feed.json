@@ -1,7 +1,7 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Bandit Chronicles",
-	"icon": "https://micro.blog/banditchronicles/avatar.jpg",
+	"icon": "https://micro.blog/clintondreisbach/avatar.jpg",
 	"home_page_url": "https://banditchronicles.micro.blog/",
 	"feed_url": "https://banditchronicles.micro.blog/feed.json",
 	"items": [
